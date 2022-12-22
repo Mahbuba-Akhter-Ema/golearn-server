@@ -1,0 +1,63 @@
+[
+    {
+      "id": "01",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img3.webp",
+      "title": "Software Development from A to Z Beginner",
+      "details": "In this course, you will learn Software Development from A to Z Beginner more. Also, you will learn how became a Software developer from beginner to Advanced. We will continue working with your in your Software Development journey.",
+      "ratings": "4.2",
+      "views":"35,000",
+      "price":"$250",
+      "videos":"12"
+    },
+    {
+      "id": "02",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img4.webp",
+      "title": "Graphics Design MasterClass For Beginning and Ending",
+      "details": "In this course, you will learn Photoshop, Illustrator, Adobe XD, InDesign & more. Also, you will learn how to bring out the best in your photographs with this beginner's course on Adobe Lightroom Classic, the photo editing app that's optimized for desktops.",
+      "ratings": "4.5",
+      "views":"49,000",
+      "price":"$200",
+      "videos":"9"
+    },
+    {
+      "id": "03",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img5.webp",
+      "title": "The Complete A to Z JavaScript Course For Beginner",
+      "details": "This complete beginner's course will help you to feel confident and comfortable using Complete JavaScript Course. Aslo, learn how to became a pro level programmer. Became a Programmer.",
+      "ratings": "4.8",
+      "views":"85,000",
+      "price":"$200",
+      "videos":"17"
+    },
+    {
+      "id": "04",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img.webp",
+      "title": "Learn Python Programming Beginner",
+      "details": "Software Development from A to Z Beginner",
+      "details": "In this course, you will learn Python Programming Beginner from A to Z and more. Also, you will learn how became a Python programmer Beginner from beginner to Advanced. We will continue working with your in your Python Programming journey.",
+      "ratings": "4.5",
+      "views":"48,000",
+      "price":"$180",
+      "videos":"10"
+    },
+    {
+      "id": "05",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img2.webp",
+      "title": "Statistics Data Science and Business Analysis",
+      "details": "In this course, you will learn Statistics Data Science and Business Analysis Beginner from A to Z and more. Also, you will learn how became a Python programmer Beginner from beginner to Advanced. We will continue working with your in your Statistics Data Science and Business Analysis journey.",
+      "ratings": "4.3",
+      "price":"$220",
+      "views":"23,000",
+      "videos":"7"
+    },
+    {
+      "id": "06",
+      "image": "http://skilify.theuxuidesigner.com/images/webp/crd-img3.webp",
+      "title": "Learn HTML5 Programming Beginning",
+      "details": "In this course, you will learn HTML5 Programming Beginner from A to Z and more. Also, you will learn how became a HTML5 Programming Beginning  from beginner to Advanced. We will continue working with your in your HTML5 Programming Beginning journey.",
+      "ratings": "4.7",
+      "views":"70,000",
+      "price":"$120",
+      "videos":"15"
+    }
+]
